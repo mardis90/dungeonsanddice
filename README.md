@@ -1,1 +1,1 @@
-dungeonsanddice 
+dangeonsanddice is a small program for rolling dice for Dungeons & Dragons. It includes all dice from D4 to D100. It can roll a single die—with advantage or disadvantage—and up to twenty dice simultaneously, providing the sum and individual results.
